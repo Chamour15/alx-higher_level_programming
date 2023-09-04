@@ -39,3 +39,6 @@ You are not allowed to use any loops or conditional statements
 Your program should be exactly 5 lines long
 You are not allowed to create new variables
 You are not allowed to use string literals
+
+10-9. Easter Egg
+a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
