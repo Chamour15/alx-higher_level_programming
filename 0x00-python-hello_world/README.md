@@ -42,3 +42,6 @@ You are not allowed to use string literals
 
 10-9. Easter Egg
 a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+
+11-10. Linked list cycle
+a function in C that checks if a singly linked list has a cycle in it.
